@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## SC18 Panel - Sustaining Research Software
 
-You can use the [editor on GitHub](https://github.com/softwaresaved/sc18-sustaining-research-software/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Time, date and venue TBC**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### This website is [http://bit.ly/sc18-sustaining-research-software](http://bit.ly/sc18-sustaining-research-software)
 
-### Markdown
+[SC18 Session Page](https://sc18.supercomputing.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Agenda
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+### Goals of session
 
-1. Numbered
-2. List
+Many science advances have been possible thanks to the use of research software, which has become essential to advancing virtually every Science, Technology, Engineering and Mathematics (STEM) discipline (and many non-STEM disciplines as well). And while much of it is made available under open source licenses, work is needed to develop, support, and sustain it, as underlying systems and software as well as user needs evolve. This panel will discuss challenges and solutions related to sustaining research software, and will collect examples of successes and failures from the audience that can and will be widely shared. This will enable advanced compute and data infrastructures to positively impact future research software and future research.
 
-**Bold** and _Italic_ and `Code` text
+The aims of this session are:
+  - 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/softwaresaved/sc18-sustaining-research-software/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Related Information
 
-### Support or Contact
+Events at SC18
+  - 
+  
+Related Links:
+  - 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+ 
+### Code of Conduct
+ 
+All participants are reminded that their involvement in this session is covered by the [SC18 Code of Conduct](http://sc18.supercomputing.org/attendees/code-of-conduct/).
