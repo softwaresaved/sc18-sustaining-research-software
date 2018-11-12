@@ -33,8 +33,8 @@ As part of this session, we will be using interactive polling tools to get feedb
 ### Related Information
 
 Events at SC18
-  - [Birds of a Feather Software Engineers: Careers in Research](https://sc18.supercomputing.org/?post_type=page&p=3479&id=bof144&sess=sess411)
-  - [Birds of a Feather Software Engineering and Reuse in Computational Science and Engineering](https://sc18.supercomputing.org/?post_type=page&p=3479&id=bof171&sess=sess426)
+  - [Birds of a Feather: Software Engineers: Careers in Research](https://sc18.supercomputing.org/?post_type=page&p=3479&id=bof144&sess=sess411)
+  - [Birds of a Feather: Software Engineering and Reuse in Computational Science and Engineering](https://sc18.supercomputing.org/?post_type=page&p=3479&id=bof171&sess=sess426)
   
 Related Links:
   - 
