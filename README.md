@@ -11,8 +11,8 @@
 
 ### Agenda
 
-* 3:30 pm - Introduction to Panel (Daniel S. Katz)
-* 3:35 pm - Panellist Presentations (Sandra Gesing, Patrick Aerts, Anshu Dubey, David Pearah, Neil P. Chue Hong, Henry J. Neeman)
+* 3:30 pm - [Introduction to Panel](slides/SC18SoftwarePanelKatz.pdf) (Daniel S. Katz)
+* 3:35 pm - Panellist Presentations ([Sandra Gesing](slides/SC18SoftwarePanelGesing.pdf), [Patrick Aerts](slides/SC18SoftwarePanelAerts.pdf), [Anshu Dubey](slides/SC18SoftwarePanelDubey.pdf), [David Pearah](slides/SC18SoftwarePanelPearah.pdf), [Neil P. Chue Hong](slides/SC18SoftwarePanelChueHong.pdf), [Henry J. Neeman](slides/SC18SoftwarePanelNeeman.pdf))
 * 4:10 pm - Interactive polling and discussion of results
 * 4:50 pm - Wrap up
 
